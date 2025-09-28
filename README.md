@@ -1,2 +1,14 @@
-# Gender_bias_detection_tool-
-Gender Bias Detection Tool – A machine learning web app that detects gender bias in English text using NLP and Logistic Regression. Built with Python, Scikit-learn, and Flask, it provides real-time feedback to encourage fair and inclusive communication.
+
+Gender Bias Detection Tool
+
+This is a machine learning-based web application that detects gender bias in English text. The model analyzes sentences or paragraphs and predicts whether they contain gender-biased language or not.
+
+ Features
+
+. Input: Text box for paragraph or sentence entry
+. Output: "Gender Bias Detected" or "No Gender Bias Detected"
+. Line-by-line analysis (optional feature)
+. Pretrained ML model with basic NLP pipeline
+. Web-based interface (using Flask / Tkinter / etc.)
+
+
